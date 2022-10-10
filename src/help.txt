@@ -1,0 +1,8 @@
+${SUMMARY}	${VERSION}
+${THIS_NAME} ADDRESS
+Parameters:
+  ADDRESS モナレッジに登録したモナコイン用アドレス
+  -h      ヘルプを表示する
+  -v      バージョンを表示する
+Examples:
+  ${THIS_NAME} MEHCqJbgiNERCH3bRAtNSSD9uxPViEX1nu
